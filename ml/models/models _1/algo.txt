@@ -1,0 +1,5 @@
+1 ) K-NN Classifier (Classification)
+2) Support Vector Machines (Classification)
+3) Naïve Bayes (Classification)
+4) Decision Tree & Random Forest (Classification)
+5) Logistic Regression (Classification)
